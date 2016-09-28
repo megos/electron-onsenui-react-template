@@ -21,5 +21,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-onsenui": "^1.0.0"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
   }
 }
