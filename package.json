@@ -4,7 +4,9 @@
   "description": "Electron x Onsen UI 2.0 x React Template",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "run"  : "electron .",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
