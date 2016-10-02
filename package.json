@@ -1,0 +1,30 @@
+{
+  "name": "electron-onsenui-react-template",
+  "version": "1.0.0",
+  "description": "Electron x Onsen UI 2.0 x React Template",
+  "main": "main.js",
+  "scripts": {
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "run"  : "electron .",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megos/electron-onsenui-react-template.git"
+  },
+  "author": "megos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megos/electron-onsenui-react-template/issues"
+  },
+  "homepage": "https://github.com/megos/electron-onsenui-react-template#readme",
+  "dependencies": {
+    "onsenui": "^2.0.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-onsenui": "^1.0.0"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
+  }
+}
